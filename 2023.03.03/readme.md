@@ -1,5 +1,5 @@
 ## 시리얼통신
-- 10. 통신에 기재된 내용
+10. 통신에 기재된 내용
 - https://m.blog.naver.com/ansdbtls4067/220886156177
 - https://m.blog.naver.com/yuyyulee/220301424499
 
